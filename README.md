@@ -6,3 +6,5 @@ I used an edited version of the catch chance formula found at: https://bulbapedi
 # HOW TO DOWNLOAD!!!!!
 REQUIRMENTS:
 Python, python debugger, and pylance in visual studio code
+Click on the green *code* button, download ZIP file, and open the file
+open the *game.py* file, click on open in vs code, and run it by clicking on the 3 dots in the top right corner, run or debug, then run python file
